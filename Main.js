@@ -1,3 +1,4 @@
+alert(Olá, mundo);
 function tocaSom (idElementoAudio) { 
   
      document.querySelector(idElementoAudio).play(); 
@@ -20,5 +21,6 @@ function tocaSom (idElementoAudio) {
   
  console.log(contador); 
   
+ 
  }
 
